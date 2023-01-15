@@ -2,7 +2,7 @@
 
 ## Clicks 📸
 
-[App Screenshot] (./assets/Music-Player.png)
+[App Screenshot](./assets/Music-Player.png)
 
 
 
